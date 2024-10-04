@@ -1,0 +1,7 @@
+#install these dependencies to run the program
+
+jupyter
+pandas
+numpy
+matplotlib
+prophet
