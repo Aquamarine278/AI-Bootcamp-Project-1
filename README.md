@@ -1,7 +1,7 @@
 # AI-Bootcamp-Project-1
 
 ## Overview
-This project provides an analysis of the impacts of two specific events - 9/11 and Hurricane Katrina. The data used for the initial analysis ranged from 1983 onwards for the economic factors (GDP, S&P500, Unemployment rate) and from 1985 onwards for the birth rate. 
+This project provides an analysis of the impacts of two specific events - 9/11 and Hurricane Katrina. The data used for the initial analysis ranged from 1988 onwards for the economic factors (GDP, S&P500, Unemployment rate) and from 1985 onwards for the birth rate. 
 
 ## Software
 The software used for this project was Jupyter notebook and Prophet.
