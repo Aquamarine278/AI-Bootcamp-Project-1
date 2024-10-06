@@ -3,6 +3,9 @@
 ## Overview
 This project provides an analysis of the impacts of two specific events - 9/11 and Hurricane Katrina. The data used for the initial analysis ranged from 1988 onwards for the economic factors (GDP, S&P500, Unemployment rate) and from 1985 onwards for the birth rate. 
 
+## Presentation and Analysis
+[Impact From Historical Events](https://docs.google.com/presentation/d/1RCwIj5_W1t8Pa3ttIhyiiKm39B8s67LiHH4BDuJ4hRE/edit?usp=sharing)
+
 ## Software
 The software used for this project was Jupyter notebook and Prophet.
 
