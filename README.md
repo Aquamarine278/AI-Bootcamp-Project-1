@@ -10,10 +10,10 @@ This project provides an analysis of the impacts of two specific events - 9/11 a
 The software used for this project was Jupyter notebook and Prophet.
 
 ## Data sources
-https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023
-https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data
-https://www.kaggle.com/datasets/thedevastator/us-monthly-birth-data
-https://fred.stlouisfed.org/series/GDPC1 
+1. [Unemployment Rates by Demographics (1978-2023)](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)
+2. [S&P 500 Historical Data](https://www.kaggle.com/datasets/henryhan117/sp-500-historical-data)
+3. [US Monthly Birth Data](https://www.kaggle.com/datasets/thedevastator/us-monthly-birth-data)
+4. [Real Gross Domestic Product (GDPC1)](https://fred.stlouisfed.org/series/GDPC1)
 
 ## Acknowledgements
 https://data.world/dataworldadmin for the master birth data referenced by Kaggle
